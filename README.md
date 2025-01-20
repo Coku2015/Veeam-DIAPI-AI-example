@@ -1,6 +1,10 @@
-# Python Example for Veeam DataIntergration API with AI
+# Python Example for Veeam DataIntergration API and Ollama 
 
-prepare your environment and input environment var in config.json file.
+This script uses Ollama find objects in the pictures from the archived restore points.
+
+## Architecture
+
+![alt text](pic/image.png)
 
 ## 📗 Documentation
 
