@@ -1,0 +1,12 @@
+{
+    "vbr_server": "https://Your_VBR_Host:9419",
+    "username": "Your_VBR_Administrator",
+    "password": "Your_Password",
+    "target_server": "Your_AI_mount_server",
+    "credential_description": "disk-publish-credential",
+    "VM_name": "Lab-VM01",
+    "number_of_rp": "8",
+    "target_path": "/ubuntu-vg-ubuntu-lv/photo",
+    "object_to_find": "A turtle",
+    "ollama_host": "http://Your_Ollama_Host:11434"
+}
